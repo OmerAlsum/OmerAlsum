@@ -2,7 +2,7 @@
 <h3 align="center">I am graduating this May with a degree in Computer Engineering from California State University, Fresno.</h3>
 
 - 🔭 My senior design project is about **improving a system that prevents side channel analysis on a processor**
-- I have worked on projects that require **C++,Verilog,and C**. I am interested in embedded programming.
+- I have worked on projects that require **C++,Verilog,and C**. I am interested in embedded programming/software engineering.
 - Feel free to look at all of the projects I have worked on!
 
 <h3 align="left">Connect with me:</h3>
