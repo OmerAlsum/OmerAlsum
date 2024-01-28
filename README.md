@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omer Al Sumeri but I go by Omar</h1>
 <h3 align="center">I am graduating this May with a degree in Computer Engineering from California State University, Fresno.</h3>
 
-- 🔭 I’m currently working on a project that is about **improving a system that prevents Side Channel Analysis**
+- 🔭 My senior design project is about **improving a system that prevents side channel analysis on a processor**
+- I have worked on projects that require **C++,Verilog,and C**. I am interested in embedded programming.
+- Feel free to look at all of the projects I have worked on!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
